@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://www.asjaboros.net/space-station-love"><img width="450px" src="ai.png"></a>
+  <img width="450px" src="ai.png" />
   <p>⠀</p>
   <h2>𝘮𝘺 𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭 AI PLAYGROUND</h2>
   <p>⠀</p>
