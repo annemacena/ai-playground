@@ -13,5 +13,5 @@ Existe um exemplo do dataset das pastas `TinyVGGFace2-Train` e `TinyVGGFace2-Tes
   <p>⠀</p>
   <hr>
   <p>⠀</p>
-  <img width="450px" src="sample.png" />
+  <img width="500px" src="sample.png" />
 </div>
