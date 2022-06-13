@@ -35,4 +35,6 @@ conda activate <env>
 # To-do
 
 - [ ] Optimize classifier accuracy
+  - [ ] Train classifier on AffectNet dataset
+  - [ ] Test pipeline using only the detector
 - [ ] Implement webapp with the pipeline proposed
