@@ -9,3 +9,11 @@
 Miniprojects and collections of scripts about Artificial Intelligence,<br />
 Machine Learning and Deep Learning that I bumped&sketched around 🌌🚀✨☄️👩‍🚀
 
+<div><p>⠀</p></div>
+
+# Summary
+
+- Notebooks
+  - [Face Recognition (pt-br)](./notebooks/Face%20Recognition/)
+  - [Mask Detection (pt-br)](./notebooks/Mask%20Detection/)
+- [Emotion Classification (en)](./Emotion%20Classification/)
