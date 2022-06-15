@@ -17,3 +17,4 @@ Machine Learning and Deep Learning that I bumped&sketched around 🌌🚀✨☄�
   - [Face Recognition (pt-br)](./notebooks/Face%20Recognition/)
   - [Mask Detection (pt-br)](./notebooks/Mask%20Detection/)
 - [Emotion Classification (en)](./Emotion%20Classification/)
+- [OCR and Text Summarization (en)](./OCR%20and%20Text%20Summarization/)

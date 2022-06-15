@@ -32,7 +32,7 @@ conda activate <env>
 
 ⚠️ The classifier classes (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral) can be found in `classes.csv`. It is important to know that the classifier has been trained on these classes specified in the file, so if you want to add more classes, you should either do the training process with your new classes or implement some metric learning technique.
 
-## Command example
+# Usage
 
 ```bash
 python main.py --input samples/image_test.jpg
