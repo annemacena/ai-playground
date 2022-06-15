@@ -29,3 +29,7 @@ python main.py --input samples/img_test1.webp --sentences 6
 - `sentences`: Max value of sentences to include on summary
 
 > The output is a html page with the original text taken from image using OCR and the best sentences highlighted
+
+# Acknowledgements
+
+This code was based on knowledge acquired in the course "[Text Summarization with Natural Language Processing](https://iaexpert.academy/courses/sumarizacao-de-textos-com-processamento-de-linguagem-natural/)".
